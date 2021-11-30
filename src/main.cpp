@@ -4,7 +4,8 @@
      
     int main() 
     {
-       cout << "hola mundo";
+       cout << "hola mundo" << endl;
+       
      
       return 0; 
     }
