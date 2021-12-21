@@ -27,6 +27,13 @@ int main() {
   cout << "Eliga el numero 2" << endl;
   cout << "Eliga el numero 2" << endl;
   cout << "Eliga el numero 2" << endl;
+  cin >> numero2;
+  cin >> numero2;
+  cin >> numero2;
+  cin >> numero2;
+  cin >> numero2;
+  cin >> numero2;
+
 
   cin >> numero2;
 
