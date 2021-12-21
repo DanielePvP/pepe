@@ -22,13 +22,18 @@ int main() {
   cin >> numero1;
 
   cout << "Eliga el numero 2" << endl;
+  cout << "Eliga el numero 2" << endl;
+  cout << "Eliga el numero 2" << endl;
+  cout << "Eliga el numero 2" << endl;
+  cout << "Eliga el numero 2" << endl;
+  cout << "Eliga el numero 2" << endl;
 
   cin >> numero2;
 
   cout << "El total es ";
   
   sumar(numero1,numero2);
-ccc
+
   cout << endl;
 
 
